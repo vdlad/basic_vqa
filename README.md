@@ -56,7 +56,7 @@ $ python train.py
 ![train2](./png/final_train.png)
 
 - Testing Loss
-![testing](./png/test_train.png)
+![testing](./png/final_test.png)
 
 
 
