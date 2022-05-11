@@ -1,5 +1,11 @@
 # less_basic_vqa
+This is a MIT 6.819 Project (Computer Vision)
+The baseline model from this project is from the repo this project is forked from, called basic_vqa.
+We created the framework and baseline code to tbmoon.
+
 Pytorch implementation of the paper - VQA: Visual Question Answering (https://arxiv.org/pdf/1505.00468.pdf). This represents the baseline method. 
+
+
 
 ![model](./png/basic_model.png)
 
