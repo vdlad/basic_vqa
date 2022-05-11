@@ -43,9 +43,21 @@ $ python train.py
 | My Model | Multiple Choice | VQA v2 | **54.72** | |
 
 
-- Loss and Accuracy on VQA datasets v2
+- Loss and Accuracy on VQA datasets v2 Using the baseline model
 
 ![train1](./png/train.png)
+
+- Newer models added results:
+
+-Key
+![key](./png/key.png)
+
+- Training Loss
+![train2](./png/final_train.png)
+
+- Testing Loss
+![testing](./png/test_train.png)
+
 
 
 ## References
