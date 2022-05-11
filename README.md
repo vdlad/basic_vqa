@@ -1,5 +1,5 @@
-# basic_vqa
-Pytorch implementation of the paper - VQA: Visual Question Answering (https://arxiv.org/pdf/1505.00468.pdf).
+# less_basic_vqa
+Pytorch implementation of the paper - VQA: Visual Question Answering (https://arxiv.org/pdf/1505.00468.pdf). This represents the baseline method. 
 
 ![model](./png/basic_model.png)
 
@@ -35,7 +35,7 @@ $ python train.py
 
 ## Results
 
-- Comparison Result
+- Comparison Result of the Baseline Method 
 
 | Model | Metric | Dataset | Accuracy | Source |
 | --- | --- | --- | --- | --- |
